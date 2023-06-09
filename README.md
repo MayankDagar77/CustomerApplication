@@ -9,11 +9,11 @@ Rest API services provided inside this spring boot application are:-
 5- Delete the existing customer from the database.
 
 Tech Stack used in the application are:- 
-Spring Data Jpa
-Java 
-MySql
-Hibernate
-Maven
-Lombok
+Spring Data Jpa,
+Java,
+MySql,
+Hibernate,
+Maven,
+Lombok,
 Swagger UI.
 
